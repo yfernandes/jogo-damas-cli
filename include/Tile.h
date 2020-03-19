@@ -1,6 +1,5 @@
 #pragma once
 
-
 struct Tile
 {
   bool isOccupied;
