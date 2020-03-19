@@ -1,8 +1,6 @@
 {
   "files.associations": {
     "iostream": "cpp",
-    "ostream": "cpp"
-  },
-  "editor.formatOnSave": true,
-  "C_Cpp.clang_format_fallbackStyle": "LLVM"
+    "iosfwd": "cpp"
+  }
 }
