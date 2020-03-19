@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall -Werror -std=c++11 -g   CMakeFiles/Checkers.dir/main.cpp.o  -o Checkers 

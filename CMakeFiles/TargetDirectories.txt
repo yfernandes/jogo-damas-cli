@@ -1,3 +1,0 @@
-/home/yago/Documents/Ufop/IntroProg/TP/CMakeFiles/rebuild_cache.dir
-/home/yago/Documents/Ufop/IntroProg/TP/CMakeFiles/Checkers.dir
-/home/yago/Documents/Ufop/IntroProg/TP/CMakeFiles/edit_cache.dir
